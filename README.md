@@ -1,6 +1,6 @@
 - 👋 Hi, I'm @fercoopat.
 - 👀 I'm interested in learning as much as I can about web development.
-- 🌱 I'm currently working as a frontend developer in a company right here in my country (Cuba).
+- 🌱 I'm currently working as a frontend developer in Dofleini S.R.L.
 - 💞️ I'm looking to collaborate on projects to learn more about all what I can.
 - 📫 Can reach me on my personal mail fercoopat11@gmail.com
 
